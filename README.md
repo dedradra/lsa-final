@@ -11,16 +11,16 @@
 ## 硬體
 
 <!-- e.g., How many Raspberry Pi? How much you spent on these resources? -->
-*樹梅派  
-*顯示器  
-*麥克風  
+* 樹梅派  
+* 顯示器  
+* 麥克風  
 
 ## 軟體
 
-*google  drive  
-*google calendar  
-*python  
-*HTML  
+* google  drive  
+* google calendar  
+* python  
+* HTML  
 
 ## 現有函式庫
 

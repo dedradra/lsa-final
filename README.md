@@ -11,7 +11,7 @@
 ## 硬體
 
 <!-- e.g., How many Raspberry Pi? How much you spent on these resources? -->
-* 樹梅派  
+* Raspberry pi 3
 * 顯示器  
 * 麥克風  
 

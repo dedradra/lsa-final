@@ -41,7 +41,7 @@ ssh、nginx、樹梅派虛擬機
 
 ## References
 
-w3school-https://www.w3schools.com/
-課程共筆-https://hackmd.io/@ncnu-opensource/book/https%3A%2F%2Fhackmd.io%2F3NOcuhuDRtKU23LAOhzjgg
-名言佳句-http://library.yuda-cloudstudy.com.tw/submenu/index/well-known
-chatGPT
+w3school-https://www.w3schools.com/  
+課程共筆-https://hackmd.io/@ncnu-opensource/book/https%3A%2F%2Fhackmd.io%2F3NOcuhuDRtKU23LAOhzjgg  
+名言佳句-http://library.yuda-cloudstudy.com.tw/submenu/index/well-known  
+chatGPT  

@@ -37,7 +37,9 @@
 ## 善用所學
 
 <!-- What kind of knowledge did you use on this project? -->
-ssh、nginx、樹梅派虛擬機
+- ssh
+- nginx
+- 樹梅派虛擬機
 
 ## 前置作業
 

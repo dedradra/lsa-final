@@ -25,7 +25,10 @@
 ## 現有函式庫
 
 <!-- Which libraries do you use while you implement the project -->
-google.oauth2.credentials、google_auth_oauthlib.flow、googleapiclient.discovery、googleapiclient.http
+- google.oauth2.credentials  
+- google_auth_oauthlib.flow
+- googleapiclient.discovery
+- googleapiclient.http
 
 ## 遇到的困難
 
@@ -45,13 +48,14 @@ ssh、nginx、樹梅派虛擬機
 <!-- How to use your project -->
 
 ## 工作分配
-111213028 張嘉心-圖片輪轉功能  
-111213065 何俞鋒-圖片輪轉功能  
-111213023 謝逸驊-語音輸入行程功能  
-111213033 朱邑旋-語音輸入行程功能  
+- 111213028 張嘉心-圖片輪轉功能  
+- 111213065 何俞鋒-圖片輪轉功能  
+- 111213023 謝逸驊-語音輸入行程功能  
+- 111213033 朱邑旋-語音輸入行程功能
+- 111213077 林冠伶-github、ppt    
 
 ## 參考資料
-w3school-https://www.w3schools.com/  
-課程共筆-https://hackmd.io/@ncnu-opensource/book/https%3A%2F%2Fhackmd.io%2F3NOcuhuDRtKU23LAOhzjgg  
-名言佳句-http://library.yuda-cloudstudy.com.tw/submenu/index/well-known  
-chatGPT  
+- w3school-https://www.w3schools.com/  
+- 課程共筆-https://hackmd.io/@ncnu-opensource/book/https%3A%2F%2Fhackmd.io%2F3NOcuhuDRtKU23LAOhzjgg  
+- 名言佳句-http://library.yuda-cloudstudy.com.tw/submenu/index/well-known  
+- chatGPT  
